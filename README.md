@@ -25,3 +25,7 @@ See the example `settings.yaml` file in this directory
 #### Commands
 
 `cloud-cli --help` for help
+
+#### Installation
+
+Run `make install` to install
