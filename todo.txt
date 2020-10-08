@@ -1,5 +1,0 @@
-//TODO: remove dependency on AWS CLI for authentication
-//TODO: add multi-file uploads
-//TODO: add zipping of directories
-//TODO: look at adding encryption to zip functionality
-//TODO: add Google
