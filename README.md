@@ -28,4 +28,4 @@ See the example `settings.yaml` file in this directory
 
 #### Installation
 
-Run `make install` to install
+Run `make install` to install the app
