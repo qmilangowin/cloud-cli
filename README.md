@@ -1,3 +1,5 @@
+[![Go Report Card](https://goreportcard.com/report/github.com/qmilangowin/cloud-cli)](https://goreportcard.com/report/github.com/qmilangowin/cloud-cli)
+
 # cloud-cli
 ### Multi-Cloud CLI Tool
 
